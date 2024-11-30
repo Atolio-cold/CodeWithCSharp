@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\anton\\programming\\C#\\PowerShell\\MyProject_2024-11-30\\MyProject_2024-11-30.csproj": {}
+    "c:\\anton\\programming\\C#\\CodeWithCSharp\\MyProject_2024-11-30.csproj": {}
   },
   "projects": {
-    "C:\\anton\\programming\\C#\\PowerShell\\MyProject_2024-11-30\\MyProject_2024-11-30.csproj": {
+    "c:\\anton\\programming\\C#\\CodeWithCSharp\\MyProject_2024-11-30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\anton\\programming\\C#\\PowerShell\\MyProject_2024-11-30\\MyProject_2024-11-30.csproj",
+        "projectUniqueName": "c:\\anton\\programming\\C#\\CodeWithCSharp\\MyProject_2024-11-30.csproj",
         "projectName": "MyProject_2024-11-30",
-        "projectPath": "C:\\anton\\programming\\C#\\PowerShell\\MyProject_2024-11-30\\MyProject_2024-11-30.csproj",
+        "projectPath": "c:\\anton\\programming\\C#\\CodeWithCSharp\\MyProject_2024-11-30.csproj",
         "packagesPath": "C:\\Users\\amuch\\.nuget\\packages\\",
-        "outputPath": "C:\\anton\\programming\\C#\\PowerShell\\MyProject_2024-11-30\\obj\\",
+        "outputPath": "c:\\anton\\programming\\C#\\CodeWithCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

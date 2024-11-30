@@ -1,0 +1,14 @@
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\bin\Debug\net8.0\MyProject_2024-11-30.exe
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\bin\Debug\net8.0\MyProject_2024-11-30.deps.json
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\bin\Debug\net8.0\MyProject_2024-11-30.runtimeconfig.json
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\bin\Debug\net8.0\MyProject_2024-11-30.dll
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\bin\Debug\net8.0\MyProject_2024-11-30.pdb
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.GeneratedMSBuildEditorConfig.editorconfig
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.AssemblyInfoInputs.cache
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.AssemblyInfo.cs
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.csproj.CoreCompileInputs.cache
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.dll
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\refint\MyProject_2024-11-30.dll
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.pdb
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\MyProject_2024-11-30.genruntimeconfig.cache
+C:\anton\programming\C#\PowerShell\MyProject_2024-11-30\obj\Debug\net8.0\ref\MyProject_2024-11-30.dll
